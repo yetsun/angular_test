@@ -1,0 +1,20 @@
+{
+  "name": "angular_test",
+  "version": "0.0.0",
+  "authors": [
+    "Jun Ye <jye@coupang.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "src/components/",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.15",
+    "bootstrap": "~3.3.4"
+  }
+}
