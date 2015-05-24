@@ -16,7 +16,7 @@ module.exports = function(config) {
     // list of files / patterns to load in the browser
     files: [
         'libs/angular/angular.min.js',
-        //'bower_components/angular-mocks/angular-mocks.js',
+        'libs/angular-mocks/angular-mocks.js',
         'js/app.js',
         'tests/*.js'
     ],

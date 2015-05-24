@@ -3,6 +3,12 @@ angular_test
 
 This is to learn angular with examples.
 
+It has the sample Angular application, UI only. 
+And the unit test. 
+
+The sample application is from Angular tutorial:
+http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro
+
 
 ##setup
 
