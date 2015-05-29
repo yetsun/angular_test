@@ -2,7 +2,7 @@ app = angular.module 'gemStore', []
 
 app.controller 'StoreController', ->
   @products = gems
-  true
+  return
 
 app.controller 'TabController', ->
   @tab = 1
@@ -11,8 +11,7 @@ app.controller 'TabController', ->
   
   @isSet = (tabName) ->
     @tab == tabName
-
-
+  return
 
 gems = [
   {
