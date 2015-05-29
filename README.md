@@ -29,3 +29,6 @@ npm install karma-jasmine --save-dev
 karma init
 karma start
 karma start --single-run
+
+# auto install npm and bower
+grunt 
